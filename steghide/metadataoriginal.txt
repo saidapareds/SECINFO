@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.76
+File Name                       : imagen.jpg
+Directory                       : .
+File Size                       : 15 MB
+File Modification Date/Time     : 2025:12:02 18:45:19+00:00
+File Access Date/Time           : 2025:12:02 18:38:31+00:00
+File Inode Change Date/Time     : 2025:12:02 18:45:19+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Resolution Unit                 : inches
+X Resolution                    : 300
+Y Resolution                    : 300
+Image Width                     : 10109
+Image Height                    : 4542
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 10109x4542
+Megapixels                      : 45.9
